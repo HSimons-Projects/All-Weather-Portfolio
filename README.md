@@ -10,9 +10,9 @@
 ### Raising the equity weighting improved risk-adjusted returns and drawdown against the original portfolio, and the bond portfolio became less volatile.
 ### The GMV sleeve helped most, because its low volatility let it become a larger component.
 ## Results
-![Cumulative growth](images/allcumulative_returns.png)
-![Weightings for Portfolios](images/weights.png)
-![Drawdown](images/drawdowns.png)
+![Cumulative growth](allcumulative_returns.png)
+![Weightings for Portfolios](weights.png)
+![Drawdown](drawdowns.png)
 ### Maintaining the drawdown performance of the original portfolios whilst gaining better returns.
 |                                                       |   Annualized Return |   Annualized Vol |   Sharpe Ratio |   Sortino Ratio |   Calmar Ratio |   Skewness |   Kurtosis |   Cornish-Fisher VaR (5%) |   Historic CVaR (5%) |   Max Drawdown |   Max DD Duration (mo) |   Hit Rate |   Best Month |   Worst Month |
 |:------------------------------------------------------|--------------------:|-----------------:|---------------:|----------------:|---------------:|-----------:|-----------:|--------------------------:|---------------------:|---------------:|-----------------------:|-----------:|-------------:|--------------:|
