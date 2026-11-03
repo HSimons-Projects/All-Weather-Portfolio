@@ -2,9 +2,9 @@
 ## Introduction
 *Modernising the All-Weather Portfolio takes the portfolio from Bridgewater Associates and changes it to address modern problems and phenomena's. The new portfolio aims to recreate the portfolio whilst diversifying from these new risks that the contemporary market faces.
 ## Motivation
-*The original five-asset all-weather portfolio looks brittle given inflationary pressure from the Middle East, AI-driven equity concentration, the sovereign bond selloff and elevated gold prices.
-*Three of the five assets face headwinds: equities (index concentration in AI), long-dated treasuries (sticky inflation, low G7 growth) and gold (a dollar rebound or a pause in central bank buying could unwind the rally).
-### The approach is to reduce sensitivity to these headwinds by diversifying within each asset class and adding new securities.
+* The original five-asset all-weather portfolio looks brittle given inflationary pressure from the Middle East, AI-driven equity concentration, the sovereign bond selloff and elevated gold prices.
+-Three of the five assets face headwinds: equities (index concentration in AI), long-dated treasuries (sticky inflation, low G7 growth) and gold (a dollar rebound or a pause in central bank buying could unwind the rally).
+- The approach is to reduce sensitivity to these headwinds by diversifying within each asset class and adding new securities.
 
 ## Results and Key findings
 *Raising the equity weighting improved risk-adjusted returns and drawdown against the original portfolio, and the bond portfolio became less volatile.
