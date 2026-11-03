@@ -14,6 +14,7 @@
 ![Weightings for Portfolios](weights.png)
 ![Drawdown](drawdowns.png)
 * Maintaining the drawdown performance of the original portfolios whilst gaining better returns.
+
 |                                                       |   Annualized Return |   Annualized Vol |   Sharpe Ratio |   Sortino Ratio |   Calmar Ratio |   Skewness |   Kurtosis |   Cornish-Fisher VaR (5%) |   Historic CVaR (5%) |   Max Drawdown |   Max DD Duration (mo) |   Hit Rate |   Best Month |   Worst Month |
 |:------------------------------------------------------|--------------------:|-----------------:|---------------:|----------------:|---------------:|-----------:|-----------:|--------------------------:|---------------------:|---------------:|-----------------------:|-----------:|-------------:|--------------:|
 | Equal Weight Portfolio                                |               0.096 |            0.085 |          0.755 |           1.22  |          0.651 |     -0.412 |      2.842 |                     0.035 |                0.045 |         -0.148 |                     26 |      0.634 |        0.054 |        -0.064 |
