@@ -25,7 +25,7 @@
 ## Key decisions
 * The uncapped sleeves portfolio put 59% in bonds, leaving it exposed to inflation and US policy shocks and lowering risk-adjusted return.
 * A 40% cap was chosen because Sortino and Sharpe gains fade as the cap tightens, and volatility and drawdown rise faster as it approaches a 30% cap and below.
-
+  
 |                |   Annualized Return |   Annualized Vol |   Sortino Ratio |   Max Drawdown |   Hit Rate |
 |:---------------|--------------------:|-----------------:|----------------:|---------------:|-----------:|
 | NO Constraints |               0.061 |            0.056 |           0.952 |         -0.084 |      0.667 |
@@ -35,6 +35,7 @@
 
 * A 38% cap had the best Sortino and hit rate, but picking it would overfit the weights to this data.
 * ERC weights were chosen over GMV to avoid concentration in long-dated treasuries and gold when looking at the treasury and metal sleeves.
+
 |                     |   Annualized Return |   Annualized Vol |   Sharpe Ratio |   Sortino Ratio |   Calmar Ratio |   Skewness |   Kurtosis |   Cornish-Fisher VaR (5%) |   Historic CVaR (5%) |   Max Drawdown |   Max DD Duration (mo) |   Hit Rate |   Best Month |   Worst Month |
 |:--------------------|--------------------:|-----------------:|---------------:|----------------:|---------------:|-----------:|-----------:|--------------------------:|---------------------:|---------------:|-----------------------:|-----------:|-------------:|--------------:|
 | Bond ER Portfolio   |             0.02176 |          0.0466  |       -0.17207 |        -0.35059 |        0.41199 |    0.21739 |    2.54644 |                   0.01928 |              0.02001 |       -0.05283 |                      7 |    0.57778 |      0.03213 |      -0.02052 |
