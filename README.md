@@ -60,3 +60,4 @@
 * Adapt the portfolio for different rate regimes (falling and rising rates).
 * Test a leveraged risk parity version.
 
+note: edhec_risk_kit_206.py is authored by the authors of the coursera course 'Investment Management with Python and Machine Learning Specialisations'/ https://www.coursera.org/specializations/investment-management-python-machine-learning
