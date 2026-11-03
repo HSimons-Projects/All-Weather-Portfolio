@@ -1,5 +1,5 @@
 # Modernising the All-Weather Portfolio
-##Introduction
+## Introduction
 ### Modernising the All-Weather Portfolio takes the portfolio from Bridgewater Associates and changes it to address modern problems and phenomena's. The new portfolio aims to recreate the portfolio whilst diversifying from these new risks that the contemporary market faces.
 ## Motivation
 ### The original five-asset all-weather portfolio looks brittle given inflationary pressure from the Middle East, AI-driven equity concentration, the sovereign bond selloff and elevated gold prices.
@@ -8,7 +8,7 @@
 
 ## Results and Key findings
 ### Raising the equity weighting improved risk-adjusted returns and drawdown against the original portfolio, and the bond portfolio became less volatile.
-###T#he GMV sleeve helped most, because its low volatility let it become a larger component.
+### The GMV sleeve helped most, because its low volatility let it become a larger component.
 ## Results
 ![Cumulative growth](images/allcumulative_returns.png)
 ![Weightings for Portfolios](images/weights.png)
